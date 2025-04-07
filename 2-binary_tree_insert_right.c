@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_insert_left - fonction qui insert un noeud dans
+ * binary_tree_insert_right - fonction qui insert un noeud dans
  * l'enfant droit d'un autre noeud
  * @parent:la racine de l'arbre
  * @value: correspond à la valeur (entier) du noeud
