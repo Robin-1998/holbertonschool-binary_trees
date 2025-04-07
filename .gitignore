@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+.vscode/settings.json
+brouillon_timi.c
+brouillon_robin.c
+1-main.c
+0-node
+brouillonROBIN.c
+brouillonTIMI.c
