@@ -16,7 +16,7 @@ int binary_tree_is_leaf(const binary_tree_t *node)
 	if (node->right == NULL && node->left == NULL)
 	{
 	/* C'est une feuille, retourne 1 */
-		return(1);
+		return (1);
 	}
 	/* Sinon, ce n'est pas une feuille */
 	return (0);
