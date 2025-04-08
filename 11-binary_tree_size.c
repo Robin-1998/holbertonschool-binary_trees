@@ -3,7 +3,8 @@
 /**
  * binary_tree_size - fonction qui mesure la taille d'un arbre binaire
  * @tree: correspond à notre arbre
- * Return:
+ * Return: on retourne la taille de l'arbre en prenant en compte les
+ * branches à droite et à gauche
  */
 
 size_t binary_tree_size(const binary_tree_t *tree)
