@@ -22,4 +22,15 @@ size_t binary_tree_depth(const binary_tree_t *tree)
 	return (profondeur);
 }
 
+/*
+* size_t binary_tree_depth(const binary_tree_t *tree)
+{
+	int profondeur;
 
+	if (tree == NULL)
+		return (0);
+
+	profondeur = binary_tree_depth(tree = tree->parent);
+	return (profondeur + 1);
+}
+*/
